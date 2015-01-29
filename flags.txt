@@ -1,0 +1,17 @@
+   flags:
+   1: database connection failed
+   2: missing field in form
+   3: insert failed
+   4: stickID does not exist
+   5: no username or password provided
+   6: Bad login
+   8: PersonID does not exist
+   9: Username already exist
+   10: Wrong username/nickname/password format
+   11: Invalid image file
+   12: RequestID does not exist
+   13: Invalid command
+   14: stFriendID does not exist
+   15: Invalid friend request target
+   16: Friend request already sent
+   17: Invalid delete friend target
